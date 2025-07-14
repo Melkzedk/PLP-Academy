@@ -36,5 +36,6 @@ print(f"Difference: {difference_result}")  # ➖
 print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 print(f"Calculator Name: {name}")  # Just to keep it friendly! 😊
+print("Thank you for using the Fun Calculator! 🎊")
 
 # 🏁 And that's it! You've just made a mini-calculator! 😎💻
