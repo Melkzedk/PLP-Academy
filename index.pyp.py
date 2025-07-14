@@ -11,6 +11,9 @@ num2 = float(input("Enter the second number: "))
 
 name = "Fun Calculator"  # Just a friendly name for our calculator! 😄
 
+# Let's make sure our calculator is ready to do some serious math! 💪
+
+
 # Step 3: Time to do some math! 🧠 Let's compute the sum, difference, product, and quotient.
 
 # Add the two numbers (Yay! Addition is the first step to fun!) ➕
