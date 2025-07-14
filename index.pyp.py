@@ -9,6 +9,8 @@ num1 = float(input("Enter the first number: "))
 # Same trick here—using 'float()' for decimal magic! 🧙‍♂️
 num2 = float(input("Enter the second number: "))
 
+name = "Fun Calculator"  # Just a friendly name for our calculator! 😄
+
 # Step 3: Time to do some math! 🧠 Let's compute the sum, difference, product, and quotient.
 
 # Add the two numbers (Yay! Addition is the first step to fun!) ➕
@@ -30,5 +32,6 @@ print(f"Sum: {sum_result}")  # ➕
 print(f"Difference: {difference_result}")  # ➖
 print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
+print(f"Calculator Name: {name}")  # Just to keep it friendly! 😊
 
 # 🏁 And that's it! You've just made a mini-calculator! 😎💻
