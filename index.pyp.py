@@ -3,6 +3,7 @@
 
 # Step 1: Ask the user to input the first number
 # We're using 'float()' to make sure our numbers can have decimals too. Fancy, right? ✨
+# Let's get started! 🚀
 num1 = float(input("Enter the first number: "))
 
 # Step 2: Ask the user to input the second number
@@ -10,6 +11,8 @@ num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
 name = "Fun Calculator"  # Just a friendly name for our calculator! 😄
+
+# Now that we have our two numbers, let's get ready to do some math! 🧮
 
 # Let's make sure our calculator is ready to do some serious math! 💪
 
