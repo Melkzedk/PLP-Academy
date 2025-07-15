@@ -40,5 +40,6 @@ print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 print(f"Calculator Name: {name}")  # Just to keep it friendly! 😊
 print("Thank you for using the Fun Calculator! 🎊")
+print("Hope you had as much fun as I did! 😄")
 
 # 🏁 And that's it! You've just made a mini-calculator! 😎💻
